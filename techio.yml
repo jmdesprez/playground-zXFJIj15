@@ -1,4 +1,8 @@
-title: Simple Kotlin Template
+title: Typesafe Builder en Kotlin
 plan:
-- title: Kotlin Snippet
-  statement: statement.md
+- title: 'Partie 1 - Instances, Variables, Valeurs, Classes'
+  statement: part1.md
+- title: 'Interlude - Fonctions et Lambda'
+  statement: functions.md
+- title: 'Partie 2 - Typesafe Builder'
+  statement: part2.md
